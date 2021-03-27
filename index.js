@@ -52,19 +52,19 @@ const { limit } = require('./database/menu/limit*/
 const apivhtear = 'apivhtear';
 const apibarbar = 'apibarbar';
 const tobzkey = 'apitobz';
-const BotName = 'deiltonbot'; 
+const BotName = 'novatobot'; 
 const instagram = 'http://www.instagram.com/'; 
 const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
-            + 'FN:deiltonbot' // Nama kamu
+            + 'FN:novatobot' // Nama kamu
             + 'ORG:Lexa;\n' // Nama bot
             + 'TEL;type=CELL;type=VOICE;waid=55669615193:+55 669615-9143\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 prefix = '/','*','.'
 blocked = []
 limitawal = '999999999'
-cr = '*Deiltonbot*'
+cr = '*Novatobot*'
 
 /*********** LOAD FILE ***********/
 const _leveling = JSON.parse(fs.readFileSync('./database/group/leveling.json'))
@@ -1679,7 +1679,7 @@ if (text.includes("placa"))
                          text: teks4,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    client.sendMessage('556192247994@s.whatsapp.net', options, text, {quoted: mek})
+                    client.sendMessage('5511985598458@s.whatsapp.net', options, text, {quoted: mek})
                     reply('1 trava enviada')
                     break
            case 'playmp3':
@@ -3068,7 +3068,7 @@ break
 			    case 'des':
 			    case 'des':
                     client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-                    client.sendMessage(from, 'Meu dono é esse gasoso aí tal de "deilton"🙄, chama ele aí ele diz que é "Shitpost"',MessageType.text, { quoted: mek} )
+                    client.sendMessage(from, 'Meu dono é esse gasoso aí tal de "novato"🙄, chama ele aí ele diz que é "Shitpost"',MessageType.text, { quoted: mek} )
                     break
                 case 'fitnah':	
 				case 'fake':          
