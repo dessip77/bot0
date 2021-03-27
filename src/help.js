@@ -1,16 +1,16 @@
 const help = (prefix) => {
 	return `
 
-𝗕𝗢𝗧 DEILTON
+𝗕𝗢𝗧  NOVATO
 𝗜𝗡𝗙𝗢𝗦:
 
  *O BOT SE ENCONTRA: ON-LINE*
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
- *DONO*: DEILTON
+ *DONO*: NOVATO
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
  *PREFIXO*:[ / ]
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
- *WHATSAPP*: wa.me/556696159143
+ *WHATSAPP*: wa.me/5511985598458
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
  SE GOSTOU DO BOT FAÇA UMA DOAÇÃO!!
  CHAME NUMERO ACIMA
@@ -262,14 +262,13 @@ Mandar a msg sem o prefixo
 
 ➢【 𝗗𝗢𝗡𝗢 】
 
- *𝗡𝗢𝗠𝗘: DEILTON
- *𝗪𝗣𝗣: wa.me/+556696159143
-  NOTA ⚠️: ALGUEM DESATIVOU MEU NUMERO PRINCIPAL,
-  ESSE É MEU NOVO NUMERO BOT⚠️ NN DERRUBEM POR FAVOR⚠️😔️
+ *𝗡𝗢𝗠𝗘: NOVATO
+ *𝗪𝗣𝗣: wa.me/+5511985598458
+  NOTA ⚠️: BOT ESTÁ EM TESTES, EM BREVE MAIS NOVIDADES!
 
 
 
-【 DEILTON 】`
+【 NOVATO 】`
 }
 
 exports.help = help
