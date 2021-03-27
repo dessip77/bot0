@@ -6,11 +6,11 @@ const help = (prefix) => {
 
  *O BOT SE ENCONTRA: ON-LINE*
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
- *DONO*: DEILTON
+ *DONO*: NOVATO
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
  *PREFIXO*:[ / ]
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
- *WHATSAPP*: wa.me/556696159143
+ *WHATSAPP*: wa.me/5511985598458
  ▬▬▬▬▬▬▬【☪】▬▬▬▬▬▬▬
  SE GOSTOU DO BOT FAÇA UMA DOAÇÃO!!
  CHAME NUMERO ACIMA
@@ -228,7 +228,7 @@ const help = (prefix) => {
 ➛ *${prefix}pronomeneu [texto]*
 ➛ *${prefix}hobby*
 ➛ *𝗡𝗢𝗠𝗘: nabuto
-➛ *𝗪𝗣𝗣: wa.me/+556696159143
+➛ *𝗪𝗣𝗣: wa.me/+5511985598458
 【 DEILTON 】
 ➢【 𝗖𝗢𝗠𝗔𝗡𝗗𝗢𝗦 𝗗𝗘 𝗠𝗨𝗦𝗜𝗖𝗔 】
 
@@ -262,13 +262,13 @@ Mandar a msg sem o prefixo
 
 ➢【 𝗗𝗢𝗡𝗢 】
 
- *𝗡𝗢𝗠𝗘: DEILTON
- *𝗪𝗣𝗣: wa.me/+556696159143
+ *𝗡𝗢𝗠𝗘: NOVATO
+ *𝗪𝗣𝗣: wa.me/+5511985598458
 nota: bot está sofrendo att a todo momento!⚠️
 
 
 
-【 DEILTON 】`
+【 NOVATO 】`
 }
 
 exports.help = help
