@@ -1,7 +1,7 @@
 const pack = (prefix) => {
     return `*PACKS:*
     
-*DEILTON DOMIMA*
+*NOVATO DOMIMA*
 
 Belle delphine : https://photos.app.goo.gl/Jr4Qk1dFSJepPdRc7 
 
