@@ -10,7 +10,7 @@ const daftarvip = (prefix) => {
 
 *Proprietário do bate-papo BOT :*
 
-_wa.me/556696159143 ou digite *${prefix}owner*_
+_wa.me/5511985598458 ou digite *${prefix}owner*_
 
 *NOTA*
 
