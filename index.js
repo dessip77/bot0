@@ -687,7 +687,7 @@ if (text.includes("placa"))
 			reply("olha eu aqui carai")
 	}
 	
-		if (messagesC.includes("Novato")
+		if (messagesC.includes("novato")){
 			client.updatePresence(from, Presence.composing)
 			reply("ta falando do meu dono?🤡️")
 	}
