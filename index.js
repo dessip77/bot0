@@ -300,11 +300,11 @@ async function starts() {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["556696159143@s.whatsapp.net"] // replace this with your number
-			const mod = [ownerNumber,"556696159143@s.whatsapp.net"]//ubah nomor lo
-			const adminbotnumber = ["556696159143@s.whatsapp.net"]//ubah nomor lo
-			const frendsowner = ["556696159143@s.whatsapp.net"]//ubah nomor lo
-			const premium = ["556696159143@s.whatsapp.net","5511985598458@s.whatsapp.net","557599941062@s.whatsapp.net","558598669655@s.whatsapp.net","5511949051934@s.whatsapp.net","554792091566@s.whatsapp.net","558699541889@s.whatsapp.net","559294313229@s.whatsapp.net","554298653614@s.whatsapp.net"]
+			const ownerNumber = ["5511985598458@s.whatsapp.net"] // replace this with your number
+			const mod = [ownerNumber,"5511985598458@s.whatsapp.net"]//ubah nomor lo
+			const adminbotnumber = ["5511985598458@s.whatsapp.net"]//ubah nomor lo
+			const frendsowner = ["5511985598458@s.whatsapp.net"]//ubah nomor lo
+			const premium = ["5511985598458@s.whatsapp.net","5511985598458@s.whatsapp.net","557599941062@s.whatsapp.net","558598669655@s.whatsapp.net","5511949051934@s.whatsapp.net","554792091566@s.whatsapp.net","558699541889@s.whatsapp.net","559294313229@s.whatsapp.net","554298653614@s.whatsapp.net"]
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
@@ -687,7 +687,7 @@ if (text.includes("placa"))
 			reply("olha eu aqui carai")
 	}
 	
-		if (messagesC.includes("Deilton")){
+		if (messagesC.includes("Novato")
 			client.updatePresence(from, Presence.composing)
 			reply("ta falando do meu dono?🤡️")
 	}
@@ -1806,7 +1806,7 @@ if (text.includes("placa"))
 			await limitAdd(sender)
 			break
 	
-				case 'deilton':
+				case 'novato':
 
 					reply(mess.wait)
 					anu = await fetchJson(`https://api.fdci.se/rep.php?gambar=Naruto`, {method: 'get'})
