@@ -130,14 +130,14 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 handler.help = ['menu','help','?']
 handler.tags = ['main']
 handler.command = /^(menu|help|\?)$/i
-handler.owner = false
-handler.mods = false
+handler.owner = true
+handler.mods = true
 handler.premium = false
-handler.group = false
+handler.group = true
 handler.private = false
 
-handler.admin = false
-handler.botAdmin = false
+handler.admin = true
+handler.botAdmin = true
 
 handler.fail = null
 handler.exp = 3
