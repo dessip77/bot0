@@ -227,9 +227,9 @@ const help = (prefix) => {
 ➛ *${prefix}belle [img aleatórias]*
 ➛ *${prefix}pronomeneu [texto]*
 ➛ *${prefix}hobby*
-➛ *𝗡𝗢𝗠𝗘: nabuto
-➛ *𝗪𝗣𝗣: wa.me/+556696159143
-【 DEILTON 】
+➛ *𝗡𝗢𝗠𝗘: novato
+➛ *𝗪𝗣𝗣: wa.me/+5511985598458
+【 NOVATO 】
 ➢【 𝗖𝗢𝗠𝗔𝗡𝗗𝗢𝗦 𝗗𝗘 𝗠𝗨𝗦𝗜𝗖𝗔 】
 
 ➛ *${prefix} em teste
